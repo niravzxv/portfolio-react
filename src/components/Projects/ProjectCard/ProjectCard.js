@@ -22,7 +22,7 @@ function ProjectCard() {
               <span className="stackTitle">Tech Stack -</span>
               <span className="tags">{list.tech_stack}</span>
             </Stack>
-            <BtnGroup>
+            {/* <BtnGroup>
               <a
                 className="btn btn2 SecondarBtn"
                 href={list.github_url}
@@ -39,7 +39,7 @@ function ProjectCard() {
               >
                 Demo ➜
               </a>
-            </BtnGroup>
+            </BtnGroup> */}
           </CardRight>
         </Card>
       ))}

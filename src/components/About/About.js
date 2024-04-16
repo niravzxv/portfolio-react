@@ -19,13 +19,7 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Your Name</strong> Lorem Ipsum is simply
-            dummy text of the printing and typesetting industry. Lorem Ipsum has
-            been the industry's standard dummy text ever since the 1500s, when
-            an unknown printer took a galley of type and scrambled it to make a
-            type specimen book. It has survived not only five centuries, but
-            also the leap into electronic typesetting, remaining essentially
-            unchanged.
+            Hello! My name is <strong>Nirav Gondaliya</strong> Passionate IT professional with a knack for innovation and impactful solutions. Skilled in software development, DevOps, and frontend technologies, including AWS, Node.js, MongoDB, and React.js. Proven track record in spearheading boundary-pushing projects and bridging communication gaps for successful outcomes. Eager to contribute expertise to meaningful projects and collaborate on future innovations. Let's connect and create together.
           </div>
           <div className="AboutBio tagline2">
             I have become confident using the following technologies.

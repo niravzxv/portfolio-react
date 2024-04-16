@@ -86,16 +86,16 @@ function Dropdown({ isOpen, toggle }) {
           Contact
         </NavLink>
       </NavMenu>
-      <NavBtn onClick={toggle}>
+      {/* <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
-          href="https://github.com/gurupawar/"
+          href="https://github.com/niravzxv/"
           target="_blank"
           rel="noopener noreferrer"
         >
           Resume
         </a>
-      </NavBtn>
+      </NavBtn> */}
     </SiderBar>
   );
 }
